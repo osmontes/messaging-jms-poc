@@ -1,0 +1,5 @@
+destination:
+  message:
+    string: messageString
+    map: messageMap
+    pojo: messageEmail
